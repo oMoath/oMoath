@@ -5,7 +5,7 @@
 <p align="center">
 
 <a href="https://dsc.bio/nanotect">
-  <img src="https://lanyard-profile-readme.vercel.app/api/515490955801919488?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
+  <img src="https://lanyard-profile-readme.vercel.app/api/202745501345382400?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else..." />
 </a>
 
 </p>
