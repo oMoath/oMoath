@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Java & php**
 
-- ⚡ Fun fact **play games, watching anime.**
+- ⚡ Fun fact: **I play games and watch anime.**
 
 ## 🚀 Know Languages & How to use?:
 
