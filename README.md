@@ -53,7 +53,7 @@
 
 </div>
 
-## 🌟 You can follow me in here:
+## 🌟 You can follow me here:
 
 <div align="center"> 
 
