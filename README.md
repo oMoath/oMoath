@@ -40,12 +40,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oMoath&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oMoath&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-<!-- 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=oMoath&label=Profile%20Views&color=008042&style=flat&label=Visitors" alt="Visitors"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=008042&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/oMoath" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=008042&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/oMoath" alt="Profile Forks"></a>
-</div> -->
+
 
 <div align="center">
 
