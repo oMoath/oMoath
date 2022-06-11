@@ -13,7 +13,7 @@
 ## 🙋‍♂️ About Me
 
 
-- 🌱 I’m currently learning **Java & php**
+- 🌱 I’m currently learning **Ethical hacking**
 
 - ⚡ Fun fact: **I play games and watch anime.**
 
