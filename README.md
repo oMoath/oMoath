@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi <img width="64" height="64" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moath.</h1>
+<h1 align="center">Hi <img width="32" height="32" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Moath.</h1>
 <h3 align="center">I'm a Developer from Saudi Arabia.</h3>
 
 <p align="center">
