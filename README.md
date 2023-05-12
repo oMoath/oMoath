@@ -12,9 +12,7 @@ Outside of programming, I love managing and moderating communities and reading s
  
 • <strong>Discord</strong>: <code>Moath#0001</code>
 <br>
-• <strong>Twitter</strong>: <code>@ilMoath</code>
-<br>
-• <strong>Email</strong>: <code>contact@moath.me</code>
+• <strong>Email</strong>: <code>contact@moath.org</code>
 
 <a href="https://discord.com/users/202745501345382400">
   <img src="https://lanyard.cnrad.dev/api/202745501345382400">
