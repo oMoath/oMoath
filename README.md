@@ -10,7 +10,7 @@ Outside of programming, I love managing and moderating communities and reading s
 
 <h4>Get in touch with me! 🎈</h4>
  
-• <strong>Discord</strong>: <code>Moath#0001</code>
+• <strong>Discord</strong>: <code>moath</code>
 <br>
 • <strong>Email</strong>: <code>contact@moath.org</code>
 
