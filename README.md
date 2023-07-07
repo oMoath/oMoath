@@ -1,4 +1,4 @@
-<h3>👋 Hello there.</h3>
+<h3>Hello there. 👋</h3>
 
 I'm a full-stack developer.
 <br>
