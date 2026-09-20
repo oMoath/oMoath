@@ -2,7 +2,7 @@
 
 I'm a full-stack developer.
 <br>
-Coding for 10 years, doing discord bots and a lot of things. Passionate about anime, that's why my projects have so much weeb energy on them.
+Coding for 10 years, doing a lot of things.
 
 Professional in abandoning projects, and loves to mess around with different technologies. Proficient in **JS**, especially on server-side and big fan of [Canvas](https://github.com/Automattic/node-canvas).
 
